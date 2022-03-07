@@ -43,7 +43,7 @@
 |  SHAP | [NeurIPS17] [A Unified Approach to Interpreting Model Predictions.](https://arxiv.org/abs/1705.07874) <br> [ICML19] [Data Shapley: Equitable Valuation of Data for Machine Learning.](http://proceedings.mlr.press/v97/ghorbani19c.html) |
 | Saliency Map | [ICLR ws14] [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps.](https://arxiv.org/abs/1312.6034) <br> [ICML17] [Learning Important Features Through Propagating Activation Differences.](https://arxiv.org/pdf/1704.02685.pdf) |
  | Saliency Map | [ICMLws18] [Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative.](https://arxiv.org/pdf/1806.03000.pdf) <br> [ICML17] [Axiomatic Attribution for Deep Networks.](https://arxiv.org/abs/1703.01365) |
-|  IF | [ICML17] [Understanding Black-box Predictions via Influence Functions.](https://arxiv.org/pdf/1703.04730.pdf) <br> [ICML17] [Influence Functions in Deep Learning Are Fragile.](https://arxiv.org/pdf/2006.14651.pdf) |
+|  IF | [ICML17] [Understanding Black-box Predictions via Influence Functions.](https://arxiv.org/pdf/1703.04730.pdf) <br> [ICLR21] [Influence Functions in Deep Learning Are Fragile.](https://arxiv.org/pdf/2006.14651.pdf) |
 |  |  |
 
 ---
