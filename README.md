@@ -36,15 +36,35 @@
 | 6.7      | 张启凡 |  |  |
 
 ## 论文主题列表
-| 主题  | 论文  |
-| ----  | ----  |
-| ~~Intro.~~ | ~~[AAAI21 Tutorial] [Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities](https://explainml-tutorial.github.io/aaai21)~~ |
-|  LIME | [KDD16] ["Why Should I Trust You?": Explaining the Predictions of Any Classifier.](https://arxiv.org/abs/1602.04938) <br> [AAAI18] [Anchors: High-Precision Model-Agnostic Explanations.](http://sameersingh.org/files/papers/anchors-aaai18.pdf) |
-|  SHAP | [NeurIPS17] [A Unified Approach to Interpreting Model Predictions.](https://arxiv.org/abs/1705.07874) <br> [ICML19] [Data Shapley: Equitable Valuation of Data for Machine Learning.](http://proceedings.mlr.press/v97/ghorbani19c.html) |
-| Saliency Map | [ICLR ws14] [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps.](https://arxiv.org/abs/1312.6034) <br> [ICML17] [Learning Important Features Through Propagating Activation Differences.](https://arxiv.org/pdf/1704.02685.pdf) |
- | Saliency Map | [ICMLws18] [Noise-adding Methods of Saliency Map as Series of Higher Order Partial Derivative.](https://arxiv.org/pdf/1806.03000.pdf) <br> [ICML17] [Axiomatic Attribution for Deep Networks.](https://arxiv.org/abs/1703.01365) |
-|  IF | [ICML17] [Understanding Black-box Predictions via Influence Functions.](https://arxiv.org/pdf/1703.04730.pdf) <br> [ICLR21] [Influence Functions in Deep Learning Are Fragile.](https://arxiv.org/pdf/2006.14651.pdf) |
-|  |  |
+| 序号 | 主题  | 论文  |
+| ---- | ----  | ----  |
+|  | PART 1  |  |
+|1 | ~~Intro.~~ | ~~[AAAI21 Tutorial] [Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities](https://explainml-tutorial.github.io/aaai21)~~ |
+|2 |  LIME | [KDD16] ["Why Should I Trust You?": Explaining the Predictions of Any Classifier.](https://arxiv.org/abs/1602.04938) <br> [AAAI18] [Anchors: High-Precision Model-Agnostic Explanations.](http://sameersingh.org/files/papers/anchors-aaai18.pdf) |
+|3 |  SHAP | [NeurIPS17] [A Unified Approach to Interpreting Model Predictions.](https://arxiv.org/abs/1705.07874) <br> [ICML19] [Data Shapley: Equitable Valuation of Data for Machine Learning.](http://proceedings.mlr.press/v97/ghorbani19c.html) |
+|4 | Saliency Map | [ICML17] [Axiomatic Attribution for Deep Networks.](https://arxiv.org/abs/1703.01365) <br> [ICML17] [Learning Important Features Through Propagating Activation Differences.](https://arxiv.org/pdf/1704.02685.pdf) |
+|5 |  IF | [ICML17] [Understanding Black-box Predictions via Influence Functions.](https://arxiv.org/pdf/1703.04730.pdf) <br> [ICLR21] [Influence Functions in Deep Learning Are Fragile.](https://arxiv.org/pdf/2006.14651.pdf) |
+|6 | Counterfactual |  [Counterfactual Explanations for Machine Learning: A Review.](https://arxiv.org/abs/2010.10596) <br> [NeurIPS19] [Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers.](https://arxiv.org/pdf/1912.03277.pdf) |
+|7 | Distill+TCAV | [AIES19] [Faithful and Customizable Explanations of Black Box Models.](https://cs.stanford.edu/people/jure/pubs/explanations-aies19.pdf) <br> [ICML18] [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV).](https://arxiv.org/pdf/1711.11279.pdf) |
+|8 | Evaluating(CV) | [FAT19] [On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection.](https://arxiv.org/pdf/1811.07901.pdf) <br> [AAAI20] [Visualizing Deep Networks by Optimizing with Integrated Gradients.](https://arxiv.org/pdf/1905.00954.pdf) |
+|9 | Evaluating(NLP) | [ACL20] [Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?](https://arxiv.org/pdf/2005.01831) <br> [NAACL19] [Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications..](https://arxiv.org/pdf/1905.00563.pdf) |
+| | PART 2  |  |
+|10 | GNN Exp.1 | [NeurIPS19] [Gnnexplainer: Generating explanations for graph neural networks.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138248/) <br> [NeurIPS20] [PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks.](https://arxiv.org/pdf/2010.05788.pdf) |
+|11 | GNN Exp.2 | [KDD20] [Xgnn: Towards model-level explanations of graph neural networks.](https://dl.acm.org/doi/pdf/10.1145/3394486.3403085) <br> [KDD21] [When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods.](https://dl.acm.org/doi/10.1145/3447548.3467283) |
+| 12| GNN Exp. Pro | [ICML21] [Generative Causal Explanations for Graph Neural Networks.](https://arxiv.org/pdf/2104.06643.pdf) <br> [TPAMI21] [Higher-order explanations of graph neural networks via relevant walks.](https://arxiv.org/pdf/2006.03589.pdf) |
+| 13| GNN Exp. Subgraph | [ICLR21] [Graph Information Bottleneck for Subgraph Recognition.](https://arxiv.org/pdf/2010.05563.pdf) <br> [TPAMI21] [GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks.](https://www.biorxiv.org/content/10.1101/2022.01.12.475995v1) |
+|14 | GNN Exp. NLP | [ICLR22] [Discovering Invariant Rationales for Graph Neural Networks.](https://arxiv.org/abs/2201.12872) <br> [ICLR21] [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking.](https://arxiv.org/abs/2010.00577) |
+|15 | GNN Exp.+计算病理 | [CVPR21] [Quantifying Explainers of Graph Neural Networks in Computational Pathology.](https://arxiv.org/pdf/2011.12646.pdf) <br> [ICML21] [Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity.](https://arxiv.org/abs/2105.04854) |
+|16 | GNN Exp.+社交网络 | [ACL20] [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media.](https://arxiv.org/pdf/2004.11648.pdf) <br> [EMNLP20] [HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media.](https://www.aclweb.org/anthology/2020.emnlp-main.200/) |
+|17 | GNN Exp.+推荐系统 | [KDD21] [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems.](https://dl.acm.org/doi/pdf/10.1145/) <br> [SIGIR21] [Structured Graph Convolutional Networks with Stochastic Masks for Recommender Systems.](https://dl.acm.org/doi/10.1145/3404835.3462868) |
+| | PART 3  |   |
+|18 | Intro. | [PNAS19] [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning.](https://arxiv.org/abs/1706.03461) <br> [NeurIPS19] [Machine Learning Estimation of Heterogeneous Treatment Effects with Instruments.](https://arxiv.org/abs/1905.10176) |
+|19 | Estimating | [AAAI20] [Learning Counterfactual Representations for Estimating Individual Dose-Response Curves.](https://arxiv.org/abs/1902.00981) <br> [NeurIPS20] [Estimating the Effects of Continuous-valued Interventions using Generative Adversarial Networks.](https://arxiv.org/abs/2002.12326) |
+|20 | Temporal data | [ICML20] [Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders.](https://arxiv.org/abs/1902.00450) <br> [ICLR20] [Estimating Counterfactual Treatment Outcomes over Time through Adversarially Balanced Representations.](https://arxiv.org/abs/2002.12326) |
+|21 | Structural Causal Models | [NeurIPS20] [Deep Structural Causal Models for Tractable Counterfactual Inference.](https://arxiv.org/abs/2006.06485) <br> [NeurIPS19] [Representation Learning for Treatment Effect Estimation from Observational Data.](https://papers.nips.cc/paper/7529-representation-learning-for-treatment-effect-estimation-from-observational-data.pdf) |
+|22 |  Causal+NLP1  | [ACL21] [Counterfactual Data Augmentation for Neural Machine Translation.](https://www.aclweb.org/anthology/2021.naacl-main.18/) <br> [NAACL21] [Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis.](https://arxiv.org/abs/2104.09420) |
+|23 |  Causal+NLP2  | [AAAI21] [Sketch and Customize: A Counterfactual Story Generator.](https://arxiv.org/abs/2104.00929) <br> [NeurlPS21] [Using Embeddings to Estimate Peer Influence on Social Networks.](https://why21.causalai.net/papers/WHY21_41.pdf) |
+
 
 ---
 
