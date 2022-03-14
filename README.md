@@ -12,28 +12,28 @@
 |  时间   | 报告人  | 主题  | 论文  |
 |  ----  | ---- | ----  | ----  |
 | 3.8      | 纪焘 | Intro. | [AAAI21 Tutorial] [Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities](https://explainml-tutorial.github.io/aaai21) |
-| 3.15      | 刘文炎	 |   |  |
-| 3.15      | 屈稳稳 |   |  |
-| 3.22      | 步一凡	 |  | |
-| 3.22      | 胡梦琦 |  |  |
-| 3.29      | 李放	 |   |  |
-| 3.29      | 李文锋 |  |  |
-| 4.12       | 潘金伟	 |  |  |
-| 4.12       | 郑海坤 |  |  |
-| 4.19      | 朱威	 |  |  |
-| 4.19      | 岑黎彬 |  |  |
-| 4.26      | 江宇辉	 |  |  |
-| 4.26      | 孔维璟 |  |  |
-| 5.10      | 毛炜	|  |  |
-| 5.10      | 王鹏飞 |  |  |
-| 5.17      | 岳文静	 |  |  |
-| 5.17      | 钟博 |  |  |
-| 5.24      | 郑焕然	 |  |  |
-| 5.24      | 李靖东 |  |  |
-| 5.31      | 纪焘 |  |  |
-| 5.31      | 刘文炎 |  |  |
-| 6.7      | 屈稳稳	 |  |  |
-| 6.7      | 张启凡 |  |  |
+| 3.15      | 胡梦琦 | GNN Exp.+计算病理 | [CVPR21] [Quantifying Explainers of Graph Neural Networks in Computational Pathology.](https://arxiv.org/pdf/2011.12646.pdf) <br> [ICML21] [Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity.](https://arxiv.org/abs/2105.04854) |
+| 3.15      | 屈稳稳 | Evaluating(CV) | [FAT19] [On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection.](https://arxiv.org/pdf/1811.07901.pdf) <br> [AAAI20] [Visualizing Deep Networks by Optimizing with Integrated Gradients.](https://arxiv.org/pdf/1905.00954.pdf) |
+| 3.22      | 李放	 | GNN Exp.2 | [KDD20] [Xgnn: Towards model-level explanations of graph neural networks.](https://dl.acm.org/doi/pdf/10.1145/3394486.3403085) <br> [KDD21] [When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods.](https://dl.acm.org/doi/10.1145/3447548.3467283) |
+| 3.22      | 李文锋 | GNN Exp.+社交网络 | [ACL20] [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media.](https://arxiv.org/pdf/2004.11648.pdf) <br> [EMNLP20] [HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media.](https://www.aclweb.org/anthology/2020.emnlp-main.200/) |
+| 3.29      | 潘金伟	 | LIME | [KDD16] ["Why Should I Trust You?": Explaining the Predictions of Any Classifier.](https://arxiv.org/abs/1602.04938) <br> [AAAI18] [Anchors: High-Precision Model-Agnostic Explanations.](http://sameersingh.org/files/papers/anchors-aaai18.pdf) |
+| 3.29      | 郑海坤 | IF | [ICML17] [Understanding Black-box Predictions via Influence Functions.](https://arxiv.org/pdf/1703.04730.pdf) <br> [ICLR21] [Influence Functions in Deep Learning Are Fragile.](https://arxiv.org/pdf/2006.14651.pdf) |
+| 4.12       | 朱威	 | Knowledge Neuron | Knowledge Neurons in Pretrained Transformers <br> Kformer: Knowledge Injection in Transformer Feed-Forward Layers | 
+| 4.12       | 岑黎彬 | Causal+NLP2  | [AAAI21] [Sketch and Customize: A Counterfactual Story Generator.](https://arxiv.org/abs/2104.00929) <br> [NeurlPS21] [Using Embeddings to Estimate Peer Influence on Social Networks.](https://why21.causalai.net/papers/WHY21_41.pdf)  | 
+| 4.19      | 江宇辉	 | SHAP | [NeurIPS17] [A Unified Approach to Interpreting Model Predictions.](https://arxiv.org/abs/1705.07874) <br> [ICML19] [Data Shapley: Equitable Valuation of Data for Machine Learning.](http://proceedings.mlr.press/v97/ghorbani19c.html) |
+| 4.19      | 孔维璟 | Estimating | [AAAI20] [Learning Counterfactual Representations for Estimating Individual Dose-Response Curves.](https://arxiv.org/abs/1902.00981) <br> [NeurIPS20] [Estimating the Effects of Continuous-valued Interventions using Generative Adversarial Networks.](https://arxiv.org/abs/2002.12326)|
+| 4.26      | 毛炜	|  Evaluating(NLP) | [ACL20] [Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?](https://arxiv.org/pdf/2005.01831) <br> [NAACL19] [Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications..](https://arxiv.org/pdf/1905.00563.pdf) |
+| 4.26      | 王鹏飞 | Saliency Map | [ICML17] [Axiomatic Attribution for Deep Networks.](https://arxiv.org/abs/1703.01365) <br> [ICML17] [Learning Important Features Through Propagating Activation Differences.](https://arxiv.org/pdf/1704.02685.pdf) |
+| 5.10      | 岳文静	 | GNN Exp.+推荐系统 | [KDD21] [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems.](https://dl.acm.org/doi/pdf/10.1145/) <br> [SIGIR21] [Structured Graph Convolutional Networks with Stochastic Masks for Recommender Systems.](https://dl.acm.org/doi/10.1145/3404835.3462868)  |
+| 5.10      | 钟博 | GNN Exp.1 | [NeurIPS19] [Gnnexplainer: Generating explanations for graph neural networks.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138248/) <br> [NeurIPS20] [PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks.](https://arxiv.org/pdf/2010.05788.pdf) |
+| 5.17      | 郑焕然	 | Causal+NLP1  | [ACL21] [Counterfactual Data Augmentation for Neural Machine Translation.](https://www.aclweb.org/anthology/2021.naacl-main.18/) <br> [NAACL21] [Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis.](https://arxiv.org/abs/2104.09420) |
+| 5.17      | 李靖东 |  GNN Exp. Subgraph | [ICLR21] [Graph Information Bottleneck for Subgraph Recognition.](https://arxiv.org/pdf/2010.05563.pdf) <br> [TPAMI21] [GNN-SubNet: disease subnetwork detection with explainable Graph Neural Networks.](https://www.biorxiv.org/content/10.1101/2022.01.12.475995v1) |
+| 5.24      | 纪焘 |  |  |
+| 5.24      | 刘文炎 |  |  |
+| 5.31      | 屈稳稳	 |  |  | 
+| 5.31      | 张启凡 |  |  | 
+| 6.7      | 刘文炎 | IF | [NeurIPS 18] [Representer Point Selection for Explaining Deep Neural Networks.](https://arxiv.org/abs/1811.09720) <br> [NeurIPS 20] [Estimating Training Data Influence by Tracing Gradient Descent.](https://arxiv.org/abs/2002.08484) | 
+| 6.7      | 步一凡 | Structural Causal Models | [NeurIPS20] [Deep Structural Causal Models for Tractable Counterfactual Inference.](https://arxiv.org/abs/2006.06485) <br> [NeurIPS19] [Representation Learning for Treatment Effect Estimation from Observational Data.](https://papers.nips.cc/paper/7529-representation-learning-for-treatment-effect-estimation-from-observational-data.pdf) | 
 
 ## 论文主题列表
 | 序号 | 主题  | 论文  |
